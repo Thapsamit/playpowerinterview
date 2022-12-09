@@ -33,10 +33,7 @@ i did got a client and he asked me to develop a site within two days so took it 
 - Their learning experiences won awards from the National STEM Game Competition, the Marvel Educational App Grand 
 - They follows AGILE Development to deliver the high quality products on time.
 - Creates High performance web applications that empowers the edtech platforms
+- We Create Next-Generation Learning Products. Empower your organization to produce best-in-class learning experiences based on cognitive science, machine learning, and human-centered design.
 - Gamified learning.
 
-
-## What is ReactDOM?
-## What is createRoot?
-## 
 
